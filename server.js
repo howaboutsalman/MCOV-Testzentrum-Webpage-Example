@@ -1,8 +1,11 @@
 const express = require('express');
-const dotenv = require('dotenv').config('./config.env');
+const dotenv = require('dotenv');
 const connectDB = require('./server/database/connection');
 const path = require('path');
 const app = express();
+
+
+dotenv.config({path: 'config.env'});
 const PORT = process.env.PORT || 8080;
 
 app.set("view engine", "ejs");
