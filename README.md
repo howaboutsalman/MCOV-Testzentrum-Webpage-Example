@@ -80,4 +80,4 @@ This project is open for educational purposes. Feel free to reuse parts of the c
 
 ## ✍️ Author
 
-Made by [Your Name] — inspired by the need for digital solutions during the pandemic.
+Made by @howaboutsalman — inspired by the need for digital solutions during the pandemic.
