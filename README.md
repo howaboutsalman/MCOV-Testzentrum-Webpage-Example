@@ -72,12 +72,6 @@ Then go to `http://localhost:3000` in your browser.
 
 ---
 
-## 📸 Preview
-
-![Website Preview](./assets/images/undraw_medical_care_movn.svg)
-
----
-
 ## 📄 License
 
 This project is open for educational purposes. Feel free to reuse parts of the code but always comply with proper security and privacy standards when building similar applications.
